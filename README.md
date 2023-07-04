@@ -3,8 +3,11 @@ A parser in python that reads Dutch CJIB pdf files and parses specific informati
 
 ## Installation
 clone the repository
+
 create a new virtual environment
+
 activate the virtual environment
+
 install the requirements
 
 ## Usage
