@@ -2,7 +2,7 @@
 A parser in python that reads Dutch CJIB pdf files and parses specific information to a excel file.
 
 ## Installation
-clone the repository
+Download newest release
 
 create a new virtual environment
 
