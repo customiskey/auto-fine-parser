@@ -2,7 +2,7 @@
 A parser in python that reads Dutch CJIB pdf files and parses specific information to a excel file.
 
 ## Installation
-Download newest release
+Download latest [release](https://github.com/customiskey/auto-fine-parser/releases)
 
 create a new virtual environment
 
