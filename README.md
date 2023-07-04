@@ -1,5 +1,5 @@
 # Auto Fine Parser
-Een parser die cjib pdfs leest en relevante content in een xlsx zet.
+A parser in python that reads Dutch CJIB pdf files and parses specific information to a excel file.
 
 ## Usage
 ```
